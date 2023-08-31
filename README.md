@@ -3,6 +3,7 @@
 
 ## CityCacheTutorial 🔄
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SautovAndrey/CityCacheTutorial/blob/12772ed027fbae810723e4b16cfae29a1d15a65e/LICENSE)
+![](https://komarev.com/ghpvc/?username=sautovandrey)
 
 ![CityCacheTutorial GIF](https://github.com/SautovAndrey/CityCacheTutorial/blob/cffc700bd37176b9098b2fbaee61a4c7a5791e08/Screenshot/CityCacheTutorial.gif)
 
